@@ -1,4 +1,4 @@
-[# olá 🤚
+# olá 🤚
 
 Meu nome é Evellyn e sou estudante de **Desenvolvimento de Sistema**.
 
@@ -8,7 +8,7 @@ Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvime
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-
+* HTML
 * CSS
 * JavaScript
 * node.js
